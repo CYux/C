@@ -1,0 +1,7 @@
+income 100.000000 scholarship 11 11 2018
+expense 50.000000 food 12 11 2018
+income 1110.000000 salary 9 11 2018
+expense 50.000000 food 8 11 2018
+income 1231.000000 salary 29 12 2018
+expense 50.000000 drink 20 11 2018
+expense 340.000000 cloth 20 11 2018
